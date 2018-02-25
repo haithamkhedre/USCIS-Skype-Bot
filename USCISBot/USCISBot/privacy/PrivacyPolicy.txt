@@ -1,0 +1,65 @@
+Privacy Policy — USA
+Last Update : 4/30/2017
+
+Welcome to USCIS Non Official Bot!
+
+Privacy and online safety are important to us. We offer a software Bot service for helping query UCIS cases statuses for only the owners of the cases . 
+We collect data about user queries and their cases status (“Data”) when they use the Bot service , and our Bot (collectively, “Service”). This privacy policy 
+describes how we collect, use and disclose Data.
+
+In this privacy policy, we sometimes refer to “You”. “You” are  a user of our Bot service (“User”). We’ll do our best to clarify who we are referring to at various points 
+in the policy. This policy does not apply to third-party websites, products, or services even if they link to our Services, and You should consider the privacy practices 
+of those third-parties carefully. If You disagree with the practices described in this policy, You should (a) take the necessary steps to remove cookies from Your computer 
+after leaving our Bot service, and (b) discontinue Your use of our Services like answering immigration questions.
+
+1. Overview
+The Data we collect depends on how our Services are used. we receive Data directly, such as when a user use the Bot service an account is created, or we receive a query 
+about cases. Other times, we get Data by recording query results with our Bot Service , We also get Data from third parties, like our financial partners when the user complete
+an order The collection and use of data from a variety of sources is essential to our ability to provide our Service – and to help keep the Services safe. 
+Data is critical in helping us to increase the safety of Your cases, and reduce the risk other harmful activity.
+
+2. Data We Collect
+a. Personal Data. We call Data that identifies, or that could reasonably be used to identify, You as an individual “Personal Data”. We collect Personal Data 
+in different ways. For example, we collect Personal Data when a "You" query for a case statu, order subscription We also receive Personal Data from other sources, 
+such as USCIS , financial service providers, identity verification services, and publicly available sources. Personal Data does not include Data that has been aggregated
+or made anonymous such that it can no longer be reasonably associated with a specific person. The Personal Data that we may collect includes:
+Contact details, such as name, postal address, telephone number, email address, cases query , USCIS cases result for USCIS cases statuses and queries we store these data 
+encrypted.
+
+ 
+3. How We Use Data
+a. Personal Data. We use Personal Data to: (i) provide the Service; (ii) Update the user about the cases 
+
+4. How We Disclose Data.
+The Bot Service does not sell or rent Personal Data to marketers or unaffiliated third parties. 
+
+5. Security.
+We use reasonable organizational, technical and administrative measures to protect Personal Data within our organization. Unfortunately, no data transmission or storage system
+ can be guaranteed to be 100% secure. If You have reason to believe that Your interaction with us is no longer secure (for example, if You feel that the security of Your 
+account has been compromised), please contact us immediately.
+
+6. Advertising.
+We may use third-party advertising companies to serve advertisements regarding goods and services that may be of interest to You when You access our Bot Service.
+
+7. Choice and Access.
+You have choices regarding our use and disclosure of Your Personal Data:
+a. Opting out of storing your cases queries and results
+
+8. Retention Period.
+We will retain Personal Data for the period necessary to fulfill the purposes outlined in this Privacy Policy you have the option to clear your data.
+
+9. Updates to this Privacy Policy and Notifications.
+We may change this Privacy Policy. The “Last updated” legend at the top of this Privacy Policy indicates when this Privacy Policy was last revised. Any changes are effective 
+when we post the revised Privacy Policy on the Bot Service.
+
+We may provide You with disclosures and alerts/notify regarding the Privacy Policy or Personal Data collected. You agree that electronic disclosures and notices have the same
+ meaning and effect as if we had provided You with hard copy disclosures. Disclosures and notices in relation to this Privacy Policy or Personal Data shall be considered to 
+be received by You within 24 hours of the time they are posted to our website or, in the case of Users, sent to through one of means listed in this paragraph.
+
+Contact Us
+If You have any questions about this Privacy Policy, please contact us at haitham.khedre@gmail.com.
+
+Attention: USCIS Non Official Bot Legal
+Sensitive Information. Because email communications are not always secure, please do not include credit card or other sensitive Data (such as racial or ethnic origin, 
+political opinions, religion, health, or the like) in Your emails to us.
+
